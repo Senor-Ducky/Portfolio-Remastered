@@ -1,0 +1,75 @@
+:root {
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'), url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-weight: bold;
+}
+
+.main-area-wrapper {
+padding-top: 50px;
+padding-left: 250px;
+padding-bottom: 50px;
+}
+
+.main-area {
+    display: inline;
+    text-align: center;
+}
+
+.bottom-text {
+    display: inline;
+}
+
+.hero-text {
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'), url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+    text-align: center;
+}
+
+.blue-pill {
+    background-color: #5562FF;
+    font-size: 16;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'), url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.orange-pill {
+    background-color: #FE481C;
+    font-size: 16;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'), url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button-section {
+    display: inline;
+}
+
+.btn-no-outline {
+    padding-left: 30px;
+}
+
+.bottom-text {
+    opacity: 50%;
+}
+
+.div-wrapper {
+    display: table;
+}
+
+
+
