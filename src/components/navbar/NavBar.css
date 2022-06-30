@@ -1,0 +1,81 @@
+.site-name {
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'),url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-size: 24px;
+    font-weight: bold;
+    display: inline;
+}
+
+.orange-dot {
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'),url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-size: 24px;
+    font-weight: bold;
+    display: inline;
+    color: #EC4C26;
+}
+
+nav {
+    margin: 0;
+    text-align: center;
+    
+    border-bottom: #212121;
+}
+
+.nav-elements {
+    list-style-type: none;
+    display: inline;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+
+.nav-element {
+    display: inline;
+}
+
+.nav-link {
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'),url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-size: 12;
+    font-weight: bold;
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: #EC4C26;
+    text-decoration-thickness: 5px;
+}
+
+.btn-outline {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 12px 24px;
+    font-family: 'Galano Grotesque';
+    src: local('Galano Grotesque'),url('../../assets/fonts/GalanoGrotesqueAltBold.otf'),format('otf');
+    font-size: 16;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-outline:hover {
+    background-color: black;
+    color: white;
+}
+
+.bottom-rule {
+    width: 1120px;
+    opacity: 50%;
+    margin-top: 30px;
+}
+
+.nav-wrapper {
+    padding: 8px
+}
